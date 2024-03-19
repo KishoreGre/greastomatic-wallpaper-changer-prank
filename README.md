@@ -13,3 +13,6 @@ Notes:  </br></br><pre>
 TIPS:</br></br><pre>
      Hide the folder in a random location in the PC and create a shortcut of the exe, then rename and change its icon :)</br></br></pre>
     
+
+
+eplorer is just a random name which was given to the executable
