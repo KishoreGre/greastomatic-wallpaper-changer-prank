@@ -1,5 +1,5 @@
 How To:</br></br><pre>
-      run the program? - Open the eplorer.exe to change the Wallpaper.</br>
+      run the program? - Open the greastomatic.exe to change the Wallpaper.</br>
       use a different image?  - Replace the image named com_wallpaper.jpg with another image and name it as com_wallpaper.jpg.</br>
       change the exe name? - Rename the exe or create a shortcut in the desktop and rename it.</br></br></pre>
 
@@ -15,4 +15,3 @@ TIPS:</br></br><pre>
     
 
 
-eplorer is just a random name which was given to the executable
